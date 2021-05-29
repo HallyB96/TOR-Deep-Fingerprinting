@@ -12,7 +12,9 @@ The required packages are all imported at the top of each file. In order to down
 
 ## Files
 Converter.py converts Python 2 pickles to Python 3.
+
 Datareader.py contains methods to return semi-prepared data to be used for training and classification. Downloading and re-naming a dataset to the names specified is required.
+
 NoDefModel.py, WTFPADModel.py, WalkieTalkieModel.py returns the different models used. 
 
 Closed-World-No_Def.py/ipynb                 Trains the closed-world undefended model and evaluates its performance.
