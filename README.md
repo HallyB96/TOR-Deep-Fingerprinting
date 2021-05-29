@@ -16,11 +16,15 @@ Datareader.py contains methods to return semi-prepared data to be used for train
 NoDefModel.py, WTFPADModel.py, WalkieTalkieModel.py returns the different models used. 
 
 Closed-World-No_Def.py/ipynb                 Trains the closed-world undefended model and evaluates its performance.
+
 Closed-World-wtf-pad.py/ipynb                Trains the closed-world WTF-PAD model and evaluates its performance.
+
 Closed-World-WalkieTalkie.py/ipynb           Trains the closed-world Walkie-Talkie model and evaluates its performance.
 
 Openworld_NoDef_Evaluation.py/ipynb          Evaluates the Open-World undefended model by loading a previously trained model.
+
 Openworld_Wtf-Pad_Evaluation.py/ipynb        Evaluates the Open-World WTF-PAD model by loading a previously trained model.
+
 Openworld_WalkieTalkie_Evaluation.py/ipynb   Evaluates the Open-World Walkie-Talkie model by loading a previously trained model.
 
 
